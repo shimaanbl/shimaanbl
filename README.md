@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">I'm Shimaa Nabil</h1>
 <h3 align="center">A Software Tester</h3>
-<p>
+<p align="center">
  I am a beginner software tester. I am a curious and detail-oriented individual who has recently embarked on a journey into the world of software testing. 
 
 I am passionate about ensuring that software products are of the highest quality and functionality. My strong analytical skills and logical thinking allow me to identify potential issues and bugs in the software during various stages of development.
